@@ -22,3 +22,11 @@ For questions or concerns regarding this Privacy Policy, feel free to contact us
 📧 teamatdidilockit@gmail.com
 6. Updates
 We may update this policy from time to time. Any changes will be posted within the app or on our support site.
+7. EU Regulations
+ Due to EU regulations we are required to show a consent message to show personalised ads. To put it in simple terms :
+ Google shows ads, and collects stuff about you like the device and IP. If you're in the EU you can reject this and have more generic ads.
+ Your choice does NOT affect the functionality of our app. We made the pop up as simple as possible. Usually you have to select manage options and then scroll for ages.
+ We know this is annoying so we added a Do not consent button to make it as easy as possible to decide.
+8. IAPs
+We have one IAP (In App Purchase) to disable ads for 0,49€.
+Purchases are processed trough Apple. For this, see Apple's Privacy Policy.
